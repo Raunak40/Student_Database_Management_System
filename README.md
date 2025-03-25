@@ -39,8 +39,18 @@ The **Student Database Management System** is a C-based project designed to effi
 - **Input validation** ensures accurate student records.
 - **File operations** persist data across program runs.
 
-## 📷 Screenshots
-(Add screenshots of the interface here)
+## **Output**
+### Main Console
+![Main Console](Images/main.png)
+
+### Add Students
+![Add Students](Images/add.png)
+
+### Functionalities
+![Functionalities](Images/functions.png)
+
+### Display All Students
+![Display Data](Images/display.png)
 
 ## 🎯 Future Improvements
 - Integration with a database (MySQL or SQLite)
